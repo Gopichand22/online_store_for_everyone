@@ -1,0 +1,30 @@
+.navbar-brand {
+	font-family: 'Eczar', serif !important;
+	font-size: 40px !important;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg,
+	.navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl,
+	.navbar>.container-xxl {
+	border-bottom: 4px groove white !important;
+}
+
+nav .navbar-nav li a {
+	font-family: 'Eczar', serif !important;
+	color: #66FCF1 !important;
+	font-size: 17px;
+}
+
+nav .navbar-nav li a:hover {
+	color: #fff !important;
+}
+
+.navbar-nav>li {
+	border-right: 3px groove white;
+}
+
+.navbar-nav>li:last-child {
+	border: none;
+}
+
+.drop-

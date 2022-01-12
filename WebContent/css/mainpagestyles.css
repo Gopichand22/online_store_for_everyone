@@ -1,0 +1,41 @@
+
+.heading-class{
+	margin-top:15%;
+	font-size: 50px;
+	color:white;
+	background-color:black;
+	text-align:center;
+	border-left:4px groove #66FCF1;
+	border-top:4px groove #66FCF1;
+	border-radius:15px;
+	
+}
+form{
+	margin-top:;
+	color:white;
+	border-bottom:10px groove #66FCF1; 
+	border-left:4px groove #66FCF1; 
+	border-bottom:4px groove #66FCF1; 
+	padding:20px;
+	border-radius:15px;
+}
+
+.clickhere a {
+	text-decoration: none;
+	color:#66FCF1;
+}
+
+.card {
+	margin-top:10%;
+	background-color: #0B0C10 !important;
+	color:#66FCF1;
+}
+
+.card-body{
+	border-radius:20px;
+	border-left:4px groove #66FCF1;
+	border-bottom:4px groove #66FCF1;
+	box-shadow:4px 4px 4px #66FCF1;
+	
+}
+
